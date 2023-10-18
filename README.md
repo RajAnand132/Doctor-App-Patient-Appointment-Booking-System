@@ -80,7 +80,8 @@ Before getting started, ensure you have the following installed on your system:
                              ┌─────────────────────────┐
                              │       Controllers       │
                              └───────────┬─────────────┘
-                                         │                                  ▼
+                                         │                                  
+                                         ▼
                              ┌─────────────────────────┐
                              │     Authentication      │
                              └───────────┬─────────────┘
