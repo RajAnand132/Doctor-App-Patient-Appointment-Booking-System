@@ -14,7 +14,6 @@
 
 <p align="left">
 
-# Patient Appointment Booking System
 
 ## Table of Contents
 
